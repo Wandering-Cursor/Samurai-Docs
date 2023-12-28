@@ -1,6 +1,6 @@
 ---
 tags:
-  - TBD
+  - Done
 Updated At: 2023-12-28T14:26:00
 ---
 ## Встановити фото профіля
@@ -10,8 +10,9 @@ Endpoint: `/api/account/settings/profile-picture`
 Description: Встановлює зображення на профіль
 
 Параметри:
-- `image`: bytes - зображення, поток байтів (Base64 encoded?)
-#TBD 
+- `image`: bytes - зображення, поток байтів (Base64 encoded)
+  for Artem: (learn how to do base64 encoding)
+
 
 Потребує авторизації, доступний всім користувачам.
 ### Відповіді

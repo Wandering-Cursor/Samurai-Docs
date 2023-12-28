@@ -1,7 +1,7 @@
 ---
 Updated At: 2023-12-28T10:00:00
 tags:
-  - TBD
+  - Done
 ---
 ## Отримати перелік задач
 
@@ -33,15 +33,15 @@ Description: Перелік задач по проєкту, з пагінаці�
 				"first_name": "Іван",
 				"last_name": "Іванов"
 			}, // Or null
-			"due_date": "2023-12-27T17:28:50Z", //ISO 8601/UTC Unix Timestamp
+			"due_date": "2023-12-27T17:28:50Z",
 			"comments": {
 				"count": 123,
 				"last_sent_at": "2023-12-27T17:28:30Z"
 			},
-			"updated_at": "ISO 8601/Timestamp"
+			"updated_at": "ISO 8601"
 		}
 	]
 }
 ```
 
-#TBD - due_date, `comments["last_sent_at"]`
+return date/time in UTC, ISO 8601

@@ -1,7 +1,7 @@
 ---
 Updated At: 2023-12-28T10:00:00
 tags:
-  - TBD
+  - Done
 ---
 ## Отримати останній проєкт
 
@@ -24,9 +24,8 @@ Description: Поточний проект студента, якщо такий
 		"id": "UUID",
 		"first_name": "Іванов",
 		"last_name": "Іван",
-		"last_name": "Іванович", //Or none/notset
-		"profile_picture": "Base64 encoded profile picture" //256?512 px max?
+		"last_name": "Іванович",
+		"profile_picture": "link to picture"
 	}
 }
 ```
-#TBD  - `profile_picture` - Link/Base64, Size?
