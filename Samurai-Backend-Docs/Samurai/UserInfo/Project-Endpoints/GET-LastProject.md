@@ -6,7 +6,7 @@ tags:
 ## Отримати останній проєкт
 
 Method: `GET`
-Endpoint: `/api/student/project/`
+Endpoint: `/api/students/project/`
 Description: Поточний проект студента, якщо такий є.
 
 Може повернути 404/200 статус.

@@ -6,7 +6,7 @@ tags:
 ## Отримати коментарі
 
 Method: `POST`
-Endpoint: `/api/student/comments/add`
+Endpoint: `/api/students/comments/add`
 Description: Дозволяє додати коментар
 
 Параметри:

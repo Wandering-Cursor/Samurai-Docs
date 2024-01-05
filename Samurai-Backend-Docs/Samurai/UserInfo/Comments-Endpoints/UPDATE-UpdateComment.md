@@ -6,7 +6,7 @@ tags:
 ## Отримати коментарі
 
 Method: `UPDATE`
-Endpoint: `/api/student/comments/update`
+Endpoint: `/api/students/comments/update`
 Description: Дозволяє оновити коментар, який було створено до цього
 
 Параметри:

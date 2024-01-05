@@ -7,7 +7,7 @@ tags:
 ## Отримати деталі по задачі
 
 Method: `GET`
-Endpoint: `/api/student/tasks/task`
+Endpoint: `/api/students/tasks/task`
 Description: Отримати деталі по конкретній задачі
 
 

@@ -6,7 +6,7 @@ tags:
 ## Отримати перелік задач
 
 Method: `GET`
-Endpoint: `/api/student/tasks/list`
+Endpoint: `/api/students/tasks/list`
 Description: Перелік задач по проєкту, з пагінацією.
 
 Параметри:

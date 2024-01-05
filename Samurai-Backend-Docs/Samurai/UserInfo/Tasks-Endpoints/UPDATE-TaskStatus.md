@@ -6,7 +6,7 @@ tags:
 ## Зміна статусу
 
 Method: `UPDATE`
-Endpoint: `/api/student/tasks/task`
+Endpoint: `/api/students/tasks/task`
 Description: Дозволяє вказати новий статус для задачі
 
 Параметри (JSON в тілі запиту):

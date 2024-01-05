@@ -6,7 +6,7 @@ tags:
 ## Загальна інформація
 
 Method: `GET`
-Endpoint: `/api/student/tasks/overview`
+Endpoint: `/api/students/tasks/overview`
 Description: Статистика по задачам обраного проєкту (к-ть задач по статусам), останні задачі (якщо треба, Артем, підкажи своє бачення)
 
 Параметри:

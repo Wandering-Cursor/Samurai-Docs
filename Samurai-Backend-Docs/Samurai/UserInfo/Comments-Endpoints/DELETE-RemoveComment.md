@@ -6,7 +6,7 @@ tags:
 ## Отримати коментарі
 
 Method: `DELETE`
-Endpoint: `/api/student/comments/delete`
+Endpoint: `/api/students/comments/delete`
 Description: Дозволяє видалити коментар
 
 Параметри:
