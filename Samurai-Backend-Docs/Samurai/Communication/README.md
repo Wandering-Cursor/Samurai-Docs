@@ -21,4 +21,8 @@
 
 ## [[DELETE-DeleteMessage]]
 
+## [[GET-ChatSearch]]
+
+## [[GET-MessageDetails]]
+
 ## [[GET-WSS Subscribe To Chats]]

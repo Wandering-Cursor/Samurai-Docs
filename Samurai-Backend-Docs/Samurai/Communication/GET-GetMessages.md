@@ -1,2 +1,6 @@
+---
+tags:
+  - TODO
+---
 ## Get Messages
-З пагінацією
+З offset-пагінацією
