@@ -26,7 +26,7 @@ tags:
 
 ## [DELETE-DeleteMessage](DELETE-DeleteMessage.md) #TBD 
 
-## [GET-ChatSearch](GET-ChatSearch.md)
+## [GET-MessageSearch](GET-MessageSearch.md)
 
 ## [GET-MessageDetails](GET-MessageDetails.md)
 
