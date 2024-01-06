@@ -24,8 +24,6 @@ tags:
 
 ## [PUT-UpdateMessage](PUT-UpdateMessage.md) #TBD 
 
-## [DELETE-DeleteMessage](DELETE-DeleteMessage.md) #TBD 
-
 ## [GET-MessageSearch](GET-MessageSearch.md)
 
 ## [GET-MessageDetails](GET-MessageDetails.md)
