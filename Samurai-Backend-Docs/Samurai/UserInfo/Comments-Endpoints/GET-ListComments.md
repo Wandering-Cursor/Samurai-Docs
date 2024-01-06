@@ -25,21 +25,22 @@ Description: Дозволяє отримати пагінований перел
 	"next_page_exists": true,
 	"previous_page_exisits": false,
 	"data": [
-		{
+		{ // CommentModel
 			"id": "UUID",
-			"file": {
+			"file": { //FileModel
 				"file_path": "link",
 				"file_size": "12.34MB",
-				"file_type": "docx"
+				"file_type": "docx",
+				"file_name": "Some Name.docx"
 			},
-			"created_at": "ISO 8601/Timestamp",
-			"updated_at": "ISO 8601/Timestamp" // If same as created - not updated
+			"created_at": "ISO 8601",
+			"updated_at": "ISO 8601" // If same as created - not updated
 		},
 		{
 			"id": "UUID-2",
 			"text": "Probably a long comment of some sort",
-			"created_at": "ISO 8601/Timestamp",
-			"updated_at": "ISO 8601/Timestamp" // If same as created - not updated
+			"created_at": "ISO 8601",
+			"updated_at": "ISO 8601" // If same as created - not updated
 		}
 	]
 }
