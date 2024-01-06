@@ -13,21 +13,21 @@ tags:
 
 # Ендпоінти
 
-## [POST-CreateChat](POST-CreateChat)
-## [GET-ChatsList](GET-ChatsList)
-## [POST-AddUser](POST-AddUser) (to Chat)
+## [POST-CreateChat](POST-CreateChat.md)
+## [GET-ChatsList](GET-ChatsList.md)
+## [POST-AddUser](POST-AddUser.md) (to Chat)
 
-## [POST-ExcludeUser](POST-ExcludeUser) (from Chat)
+## [POST-ExcludeUser](POST-ExcludeUser.md) (from Chat)
 
-## [GET-GetMessages](GET-GetMessages)
-## [POST-SendMessage](POST-SendMessage)
+## [GET-GetMessages](GET-GetMessages.md)
+## [POST-SendMessage](POST-SendMessage.md)
 
-## [PUT-UpdateMessage](PUT-UpdateMessage)
+## [PUT-UpdateMessage](PUT-UpdateMessage.md)
 
-## [DELETE-DeleteMessage](DELETE-DeleteMessage)
+## [DELETE-DeleteMessage](DELETE-DeleteMessage.md)
 
-## [GET-ChatSearch](GET-ChatSearch)
+## [GET-ChatSearch](GET-ChatSearch.md)
 
-## [GET-MessageDetails](GET-MessageDetails)
+## [GET-MessageDetails](GET-MessageDetails.md)
 
-## [GET-WSS Subscribe To Chats](GET-WSS_SubscribeToChats)
+## [GET-WSS Subscribe To Chats](GET-WSS_SubscribeToChats.md)
