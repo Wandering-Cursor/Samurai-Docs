@@ -22,9 +22,9 @@ tags:
 ## [GET-GetMessages](GET-GetMessages.md)
 ## [POST-SendMessage](POST-SendMessage.md)
 
-## [PUT-UpdateMessage](PUT-UpdateMessage.md)
+## [PUT-UpdateMessage](PUT-UpdateMessage.md) #TBD 
 
-## [DELETE-DeleteMessage](DELETE-DeleteMessage.md)
+## [DELETE-DeleteMessage](DELETE-DeleteMessage.md) #TBD 
 
 ## [GET-ChatSearch](GET-ChatSearch.md)
 
