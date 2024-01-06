@@ -9,4 +9,4 @@ tags:
 - [Дані про ендпоінти користувача](Samurai/UserInfo/README%20-%20User%20Info.md)
 - [Приклад визначення ендпоінта](Samurai/Endpoint%20Definition%20Example.md)
 - [Ендпоінти для спілкування (чатів)](Samurai/Communication/README%20-%20Communication.md)
-- [Samurai/Teachers/README](Ендпоінти для викладачів)
+- [Ендпоінти для викладачів](Samurai/Teachers/README%20-%20Teachers.md)
