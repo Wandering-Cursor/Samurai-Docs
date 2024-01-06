@@ -17,7 +17,7 @@ tags:
 ## [GET-ChatsList](GET-ChatsList.md)
 ## [POST-AddUser](POST-AddUser.md) (to Chat)
 
-## [POST-ExcludeUser](POST-ExcludeUser.md) (from Chat)
+## [POST-LeaveChat](POST-LeaveChat.md)
 
 ## [GET-GetMessages](GET-GetMessages.md)
 ## [POST-SendMessage](POST-SendMessage.md)
