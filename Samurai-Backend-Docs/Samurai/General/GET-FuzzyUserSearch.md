@@ -1,8 +1,18 @@
 ---
 tags:
-  - TODO
+  - Done
 ---
-Треба створити ендпоінт який дозволить викладачам та завідувачам (якщо треба) шукати користувачів за частковим вказанням ємейл адреси ЧИ UUID
+# Неточний пошук користувача
+
+Method: `GET`
+Endpoint: `/api/account/fuzzy-search`
+Description: Пошук користувача за збігом email адреси, чи її частини
+
+## Параметри:
+- email: !string - Адреса/її частина, за якою ми хочемо знайти іншого користувача
+
+## Детальний опис
+Доступний лише Teacher, Overseer.
 
 Як приклад:
 
@@ -16,6 +26,19 @@ tags:
 - teset@mail.com
 - tesetr2@mail.com
 
-Так само - вказавши abcde у UUID - буде повернено всіх трьох користувачів ( #TBD, не впевнений, що я так можу ) 
-
 Головна різниця від [[GET-UserSearch]] полягає у тому, що цей ендпоінт дозволяє шукати людей за частковим вказанням ємейлу.
+
+### 200 - Ok
+```json
+[
+	{  //ShortBaseUserModel
+		"id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+		"account_type": "Base user/Student/Teacher/Overseer",
+		"email": "input@example.com",
+		"first_name": "John",
+		"last_name": "Smith",
+		"middle_name": "Johnathan",
+	},
+	...
+]
+```

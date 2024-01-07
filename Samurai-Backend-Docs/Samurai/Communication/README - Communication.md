@@ -22,8 +22,6 @@ tags:
 ## [GET-GetMessages](GET-GetMessages.md)
 ## [POST-SendMessage](POST-SendMessage.md)
 
-## [PUT-UpdateMessage](PUT-UpdateMessage.md) #TBD 
-
 ## [GET-MessageSearch](GET-MessageSearch.md)
 
 ## [GET-MessageDetails](GET-MessageDetails.md)
