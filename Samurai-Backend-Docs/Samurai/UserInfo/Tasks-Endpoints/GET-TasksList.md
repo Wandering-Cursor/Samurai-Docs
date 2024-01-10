@@ -18,9 +18,7 @@ Description: Перелік задач по проєкту, з пагінаці�
 ### 200 - Проєкт знайдено
 ```json
 {
-	"page": 0,
-	"next_page_exists": true,
-	"previous_page_exisits": false,
+	"pages": 0,
 	"data": [
 		{
 			"id": "UUID",
