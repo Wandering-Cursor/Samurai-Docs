@@ -6,12 +6,12 @@ tags:
 ## Зміна статусу
 
 Method: `UPDATE`
-Endpoint: `/api/students/tasks/task`
+Endpoint: `/api/students/tasks/move_task`
 Description: Дозволяє вказати новий статус для задачі
 
 Параметри (JSON в тілі запиту):
 - `task_id`: !UUID - По якій задачі змінюється статус
-- `status`: string (TaskStatusesEnum) - який статус має придбати задача
+- `state`: string (TaskStatusesEnum) - який статус має придбати задача
 
 Відповіді
 
